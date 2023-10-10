@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/swapnil/.gradle/daemon/8.0/com.example.itbook.app-mergeDebugResources-27:/layout/custom_book_layout.xml",
+        "source": "/home/swapnil/.gradle/daemon/8.0/com.example.itbook.app-main-30:/layout/custom_book_layout.xml"
+    },
+    {
+        "merged": "/home/swapnil/.gradle/daemon/8.0/com.example.itbook.app-mergeDebugResources-27:/layout/activity_book_details.xml",
+        "source": "/home/swapnil/.gradle/daemon/8.0/com.example.itbook.app-main-30:/layout/activity_book_details.xml"
+    },
+    {
+        "merged": "com.example.itbook.app-mergeDebugResources-27:/layout/book_view.xml",
+        "source": "com.example.itbook.app-main-30:/layout/book_view.xml"
+    },
+    {
+        "merged": "/home/swapnil/.gradle/daemon/8.0/com.example.itbook.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "/home/swapnil/.gradle/daemon/8.0/com.example.itbook.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.itbook.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.example.itbook.app-main-30:/layout/activity_main.xml"
+    }
+]
